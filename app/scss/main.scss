@@ -47,7 +47,24 @@ body {
 b, strong {
 	font-weight: bold;
 }
+.header{
+	width: 1170px;
+}
+.topheder{
+	/*background-color: white;*/
+
+}
+.headerbody{
+	background-image: url(../img/bg2.png);
+	background-size: cover;
 
 
-
+}
+.dark{
+	background-color: black;
+	opacity: 0.5; 
+	height: 655px;
+}
 @import "media"; // Always at the end
+
+
